@@ -83,7 +83,7 @@ li span {
     animation: App-logo-spin infinite 20s linear;
   }
   .App {
-    max-width: 75%;
+    max-width: 350px;
     margin-top: 30px;
   }
 }
